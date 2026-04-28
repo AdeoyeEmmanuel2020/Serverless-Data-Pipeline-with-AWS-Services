@@ -1,5 +1,5 @@
 ## **Serverless Data Processing Pipeline 🚀**
-----
+
 **Role**: Solution Architect
 
 **Status**: ✅ Architecture Designed & Validated
